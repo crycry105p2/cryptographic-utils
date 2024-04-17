@@ -1,0 +1,20 @@
+{
+  "name": "cryptographic-utils",
+  "version": "1.0.2", 
+  "description": "Cryptographic Utilities is a JavaScript package that provides functionalities for common cryptographic tasks such as hashing, encryption, and decryption.",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/crycry105p2/cryptographic-utils.git"
+  },
+  "keywords": [
+    "", 
+    "",
+    ""
+  ],
+  "author": "crycry105p2",
+  "license": "MIT"
+}
